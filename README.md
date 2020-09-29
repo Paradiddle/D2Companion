@@ -1,3 +1,4 @@
-# D2Companion
+An absolute bare-bones web app.
 
-A simple web-app that displays active Destiny 2 bounties.
+Created from templates made available by Stagehand under a BSD-style
+[license](https://github.com/dart-lang/stagehand/blob/master/LICENSE).
